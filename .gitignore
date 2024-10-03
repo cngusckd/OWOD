@@ -1,4 +1,9 @@
 datasets
 output/t1/*
-owod_er_output/t1
-owod_er_output/t2
+output/t2/*
+output/t3/*
+output/t4/*
+owod_er_output/t1/*
+owod_er_output/t2/*
+owod_er_output/t3/*
+owod_er_output/t4/*
