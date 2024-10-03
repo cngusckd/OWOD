@@ -35,9 +35,7 @@ An unidentified class instance still remains, and is successfully detected as an
 
 ## Installation
 
-See [INSTALL.md](INSTALL.md).
-
-Dataset setup: Follow [these](https://github.com/JosephKJ/OWOD/issues/59#issuecomment-897747744) instructions.
+See Notion Page
 
 ## Quick Start
 
