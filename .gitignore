@@ -2,3 +2,7 @@ output/t1/*
 output/t2/*
 output/t3/*
 output/t4/*
+!output/t1/.gitkeep
+!output/t2/.gitkeep
+!output/t3/.gitkeep
+!output/t4/.gitkeep
