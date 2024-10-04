@@ -1,4 +1,4 @@
-datasets
+datasets/VOC2007
 output/t1/*
 output/t2/*
 output/t3/*
