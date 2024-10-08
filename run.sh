@@ -1,7 +1,5 @@
 # Task 1
 python tools/train_net.py --num-gpus 2 \
---dist-url 'tcp://127.0.0.1:50200' \
---resume \
 --config-file ./configs/OWOD/t1/t1_train.yaml \
 SOLVER.IMS_PER_BATCH 8 \
 SOLVER.BASE_LR 0.01 \

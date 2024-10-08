@@ -1,3 +1,11 @@
+owod_er_output/t1/*
+owod_er_output/t2/*
+owod_er_output/t3/*
+owod_er_output/t4/*
+!owod_er_output/t1/.gitkeep
+!owod_er_output/t2/.gitkeep
+!owod_er_output/t3/.gitkeep
+!owod_er_output/t4/.gitkeep
 output/t1/*
 output/t2/*
 output/t3/*
